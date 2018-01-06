@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://otakan.ddns.net/* https://otakan.jp/:splat 301!
+
+# 404 Redirects
+/*  /404.html  404
