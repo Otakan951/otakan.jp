@@ -3,7 +3,7 @@ html,body{
   margin: 0;
 }
 .main{
-	background: url(../images/thinking_face.jpg) no-repeat center;
+	background: url(/images/thinking_face.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 	height:100%;
